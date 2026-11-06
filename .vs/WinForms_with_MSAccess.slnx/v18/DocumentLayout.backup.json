@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "F:\\02. PSBU\\Year 3\\Section 2\\1. C# Programming\\WinForms_with_MSAccess\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\02. PSBU\\Year 3\\Section 2\\1. C# Programming\\WinForms_with_MSAccess\\Forms\\Dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Forms\\Dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5CA55C9-26CE-C452-0BF7-38FDFDF1F7D3}|WinForms_with_MSAccess.csproj|f:\\02. psbu\\year 3\\section 2\\1. c# programming\\winforms_with_msaccess\\forms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5CA55C9-26CE-C452-0BF7-38FDFDF1F7D3}|WinForms_with_MSAccess.csproj|solutionrelative:forms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\02. PSBU\\Year 3\\Section 2\\1. C# Programming\\WinForms_with_MSAccess\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5CA55C9-26CE-C452-0BF7-38FDFDF1F7D3}|WinForms_with_MSAccess.csproj|f:\\02. psbu\\year 3\\section 2\\1. c# programming\\winforms_with_msaccess\\forms\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5CA55C9-26CE-C452-0BF7-38FDFDF1F7D3}|WinForms_with_MSAccess.csproj|solutionrelative:forms\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +18,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Dashboard.cs",
-              "DocumentMoniker": "F:\\02. PSBU\\Year 3\\Section 2\\1. C# Programming\\WinForms_with_MSAccess\\Forms\\Dashboard.cs",
-              "RelativeDocumentMoniker": "Forms\\Dashboard.cs",
-              "ToolTip": "F:\\02. PSBU\\Year 3\\Section 2\\1. C# Programming\\WinForms_with_MSAccess\\Forms\\Dashboard.cs",
-              "RelativeToolTip": "Forms\\Dashboard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "UserProfile.cs [Design]",
+              "DocumentMoniker": "F:\\02. PSBU\\Year 3\\Section 2\\1. C# Programming\\WinForms_with_MSAccess\\Forms\\UserProfile.cs",
+              "RelativeDocumentMoniker": "Forms\\UserProfile.cs",
+              "ToolTip": "F:\\02. PSBU\\Year 3\\Section 2\\1. C# Programming\\WinForms_with_MSAccess\\Forms\\UserProfile.cs [Design]",
+              "RelativeToolTip": "Forms\\UserProfile.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-06T11:22:24.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-06T14:59:39.298Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\02. PSBU\\Year 3\\Section 2\\1. C# Programming\\WinForms_with_MSAccess\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "F:\\02. PSBU\\Year 3\\Section 2\\1. C# Programming\\WinForms_with_MSAccess\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "F:\\02. PSBU\\Year 3\\Section 2\\1. C# Programming\\WinForms_with_MSAccess\\Forms\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Forms\\Dashboard.cs",
+              "ToolTip": "F:\\02. PSBU\\Year 3\\Section 2\\1. C# Programming\\WinForms_with_MSAccess\\Forms\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Forms\\Dashboard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-06T11:21:21.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-06T12:14:05.806Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

@@ -17,3 +17,6 @@ F:\02. PSBU\Year 3\Section 2\1. C# Programming\WinForms_with_MSAccess\obj\Debug\
 F:\02. PSBU\Year 3\Section 2\1. C# Programming\WinForms_with_MSAccess\obj\Debug\net10.0-windows\WinForms_with_MSAccess.pdb
 F:\02. PSBU\Year 3\Section 2\1. C# Programming\WinForms_with_MSAccess\obj\Debug\net10.0-windows\WinForms_with_MSAccess.genruntimeconfig.cache
 F:\02. PSBU\Year 3\Section 2\1. C# Programming\WinForms_with_MSAccess\obj\Debug\net10.0-windows\ref\WinForms_with_MSAccess.dll
+F:\02. PSBU\Year 3\Section 2\1. C# Programming\WinForms_with_MSAccess\obj\Debug\net10.0-windows\WinForms_with_MSAccess.Forms.Dashboard.resources
+F:\02. PSBU\Year 3\Section 2\1. C# Programming\WinForms_with_MSAccess\obj\Debug\net10.0-windows\WinForms_with_MSAccess.Forms.UserProfile.resources
+F:\02. PSBU\Year 3\Section 2\1. C# Programming\WinForms_with_MSAccess\obj\Debug\net10.0-windows\WinForms_with_MSAccess.csproj.GenerateResource.cache

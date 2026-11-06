@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinForms_with_MSAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3608e6f6a2adcb4f10c87cf0c9e3a11a9e6b6476")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff36bed0ccde27a59b266415553ef6ff91cb4194")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinForms_with_MSAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinForms_with_MSAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
