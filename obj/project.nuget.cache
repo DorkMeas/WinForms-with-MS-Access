@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4V/dyBA4syQ=",
+  "success": true,
+  "projectFilePath": "F:\\02. PSBU\\Year 3\\Section 2\\1. C# Programming\\WinForms_with_MSAccess\\WinForms_with_MSAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DORKMEAS\\.nuget\\packages\\system.data.oledb\\9.0.0\\system.data.oledb.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
